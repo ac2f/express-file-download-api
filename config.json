@@ -1,0 +1,10 @@
+{
+    "filesPath": "./uploads/",
+    "dbPath": "./data.sqlite3",
+    "sendStaticFile": true,
+    "staticFile": "HannibalRoulette.zip",
+    "defaultDownloadCountValue": "113",
+    "encryptionKey": ":u1tr4S3cuR€?",
+    "passSecret": true,
+    "passDownloadIDCheck": false
+}
